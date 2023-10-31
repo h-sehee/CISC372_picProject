@@ -1,0 +1,9 @@
+Script started on 2023-10-30 23:33:45-04:00 [TERM="xterm-256color" TTY="/dev/pts/183" COLUMNS="177" LINES="20"]
+hsehee@cisc372:~/cisc372/CISC372_picProject$ srun -n 16 ./hw2mpicc -o hw2 hw2.c[2Psrun -n 16 ./hw2mpicc -o hw2 hw2.c[2Psrun -n 16 ./hw2[1P8[C[C[C[C[C[C[1@16[C[C[C[C[C[Cmpicc -o hw2 hw2.c[2Psrun -n 16 ./hw2mpicc -o hw2 hw2.c[2Psrun -n 16 ./hw2[K./imagePTH pic1.jpg edge 4
+Took 16 seconds
+hsehee@cisc372:~/cisc372/CISC372_picProject$ ./imagePTH pic1.jpg edge 4[K[K[C[1P[1P[1P[1@O[1@M[1@P
+Took 17 seconds
+hsehee@cisc372:~/cisc372/CISC372_picProject$ es[Kxit
+exit
+
+Script done on 2023-10-30 23:34:51-04:00 [COMMAND_EXIT_CODE="0"]
